@@ -10,4 +10,14 @@ public class Car {
 	public void setName(String name) {
 		this.name = name;
 	}
+	private int speed;
+
+	public int getSpeed() {
+		return speed;
+	}
+
+	public void setSpeed(int speed) {
+		this.speed = speed;
+	}
+	
 }
