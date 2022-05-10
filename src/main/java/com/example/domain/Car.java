@@ -11,4 +11,5 @@ public class Car {
 		this.name = name;
 	}
 	private String color;
+
 }
